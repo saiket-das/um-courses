@@ -4,6 +4,7 @@ This repository contains a collection of **labs**, **tutorials**, **viva questio
 
 - **Fundamentals of Programming**
 - **Data Structures**
+- **Operating Systems**
 
 ## 📘 WIX1002 - Fundamentals of Programming
 
@@ -29,3 +30,15 @@ This repository contains a collection of **labs**, **tutorials**, **viva questio
 - Graphs and Traversals
 - Searching and Sorting Algorithms
 - Binary Search Trees (BST)
+
+## 📙 WIA2004 - Operating Systems
+
+#### Topics Covered
+
+- Process Management and Scheduling
+- Inter-Process Communication (IPC)
+- Threads and Concurrency
+- Deadlock Handling
+- Memory Management and Allocation
+- Page Replacement Algorithms (FIFO, First-Fit, etc.)
+- File System Implementation
