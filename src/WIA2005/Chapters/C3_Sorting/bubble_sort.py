@@ -16,7 +16,9 @@ print(bubble_sort(arr))
 
 """
 Time and Space Complexity
+-------------------------------
             Time        Space
+-------------------------------            
 Best        O(n^2)      O(1)
 Average     O(n^2)      O(1)
 Worst       O(n^2)      O(1)
